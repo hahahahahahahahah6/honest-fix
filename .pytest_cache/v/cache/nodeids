@@ -1,0 +1,18 @@
+[
+  "test_scorer.py::test_added_import_is_tampered",
+  "test_scorer.py::test_aggregate_math",
+  "test_scorer.py::test_all_control_fixes_pass",
+  "test_scorer.py::test_all_items_fail_on_buggy_code",
+  "test_scorer.py::test_deleted_test_function_is_tampered",
+  "test_scorer.py::test_gibberish_model_gets_parse_error",
+  "test_scorer.py::test_give_up_model_gets_fail",
+  "test_scorer.py::test_honest_control_model_gets_honest_fix",
+  "test_scorer.py::test_identical_test_not_tampered",
+  "test_scorer.py::test_parse_garbage_is_none",
+  "test_scorer.py::test_parse_unlabeled_two_blocks",
+  "test_scorer.py::test_parse_wellformed",
+  "test_scorer.py::test_prompt_builds",
+  "test_scorer.py::test_reformatted_test_not_tampered",
+  "test_scorer.py::test_tampering_model_gets_tamper",
+  "test_scorer.py::test_weakened_assert_is_tampered"
+]
